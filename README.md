@@ -52,10 +52,7 @@ Some of the visual insights generated in this project:
 - Hands-on experience with **Pandas** for data manipulation.  
 - Improved skills in **data cleaning** and handling missing values.  
 - Used **Matplotlib & Seaborn** for creating visualizations.  
-- Gained insights into **storytelling with data**.  
-
-
-
+  
 ## 🔧 How to Run the Project
 1. Clone this repository:
    
