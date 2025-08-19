@@ -58,7 +58,16 @@ Some of the visual insights generated in this project:
 
 ## 🔧 How to Run the Project
 1. Clone this repository:
-   ```bash
-   git clone 
+   
+   git clone https://github.com/Hitha2822/Neflix-Data-Analysis.git
+   
+2.Install the required libraries
+ pip install -r requirements.txt
 
+3.Open Jupyter Notebook and run the file
+
+4.Open the Notebook file Netflix_data_Analysis.ipynb
+
+
+  
 
